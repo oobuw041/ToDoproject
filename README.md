@@ -1,2 +1,2 @@
 # ToDoproject
- This a project of a To do lst
+ This a To do list project
